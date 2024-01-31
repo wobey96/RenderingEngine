@@ -17,3 +17,6 @@ I grew up spending countless hours playing video games and doing engineering pro
 
 ## References
 - [Vulkan-Tutorial](https://vulkan-tutorial.com/)
+- [Ray Tracing in One Weekend Series](https://raytracing.github.io/)
+- [Fundamentals of GPU Architecture](https://www.youtube.com/playlist?list=PLxNPSjHT5qvscDTMaIAY9boOOXAJAS7y4)
+- [Learn the Vulkan API with C++](https://www.udemy.com/course/learn-the-vulkan-api-with-cpp/)
